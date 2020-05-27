@@ -58,6 +58,9 @@ A curated contents of things related to Spotify
 #### [Forgotify](http://forgotify.com/)
   That’s why we were so shocked to learn that millions of Spotify songs had been played only partially or never at all. A musical travesty, really. So we set out to give these neglected songs another way to reach your earholes, and Forgotify was born. Made by [Lane Jordan](http://lanejordan.com/), [J Hausmann](http://jgh.la/), and [Nate Gagnon](http://nategagnon.com/).
 
+#### [Skiley](https://skiley.net/)
+  A webapp which integrates with your Spotify account. Free. Manage your playlists, discover brand new tracks, and much more! Made by [João Vitor Verona Biazibetti](https://github.com/BloodShura).
+  
 
 
 
