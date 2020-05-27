@@ -57,8 +57,13 @@ A curated contents of things related to Spotify
   Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Twitter](https://twitter.com/plamere).
 
 ### To organize playlists
-##### [Exportify](https://github.com/watsonbox/exportify): 
+#### [Exportify](https://github.com/watsonbox/exportify): 
   Export Spotify playlists using the Web API. Made by [Howard Wilson
 ](https://github.com/watsonbox).
+
+#### [Sort Your Music](http://sortyourmusic.playlistmachinery.com/):
+  Sort Your Music lets you sort your playlist based on a number of Echo Nest song attributes. Made by [Paul Lamere](http://twitter.com/plamere) and [Nick Sonneveld](https://twitter.com/sonneveld).
+
+
 
 
