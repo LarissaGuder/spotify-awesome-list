@@ -1,7 +1,7 @@
-# Spotify awsome
+# Spotify awesome :dark_sunglasses:	
 A curated contents of things related to Spotify
 
-### People to follow
+### People to follow :sunglasses:
 - Paul Lamere: Director of Developer Platform Echonest (now, part of Spotify)
   - [Github](https://github.com/plamere)
   - [Twitter](https://twitter.com/plamere)
@@ -16,7 +16,7 @@ A curated contents of things related to Spotify
     - [Site](http://edwardclementlee.com/)
 
     
-### To find music
+### To find music :headphones:
 #### [Every Noise at Once](http://everynoise.com/): 
   Every Noise at Once is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 4,368 genre-shaped distinctions by Spotify as of 2020-05-22. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier. Is a project from [Glenn McDonald](https://twitter.com/glenn_mcdonald). 
 
@@ -52,11 +52,11 @@ A curated contents of things related to Spotify
 #### [Music Taste](https://musictaste.space/)
   Is a web app which helps users gain insights into their Spotify listening habits and compare their music taste with friends. Made by [Kalana Vithana](https://www.twitter.com/_kalpal)
    
-### To create playlists
+### To create playlists :dvd:
 #### [Smarter Playlists](http://playlistmachinery.com/):
-  Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Twitter](https://twitter.com/plamere).
+  Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Paul Lamere](https://twitter.com/plamere).
 
-### To organize playlists
+### To organize playlists :label:
 #### [Exportify](https://github.com/watsonbox/exportify): 
   Export Spotify playlists using the Web API. Made by [Howard Wilson
 ](https://github.com/watsonbox).
@@ -65,7 +65,7 @@ A curated contents of things related to Spotify
   Sort Your Music lets you sort your playlist based on a number of Echo Nest song attributes. Made by [Paul Lamere](http://twitter.com/plamere) and [Nick Sonneveld](https://twitter.com/sonneveld).
 
 
-### Random
+### Random :eight_pointed_black_star:	
 
 #### [Spotify TUI](https://github.com/Rigellute/spotify-tui)
   A Spotify client for the terminal written in Rust. Made by [Alexander Keliris](https://github.com/Rigellute)
