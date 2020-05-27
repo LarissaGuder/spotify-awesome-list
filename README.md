@@ -91,5 +91,11 @@ A curated contents of things related to Spotify
 #### [Rotule.me](https://rotule.me/)
   The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
-
+### Papers
+##### [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
+##### [Spotify Me: Facebook-assisted automatic playlist generation](https://ieeexplore.ieee.org/abstract/document/6659258)
+##### [Combining Spotify and Twitter Data for Generating a Recent and Public Dataset for Music Recommendation](https://dbis.uibk.ac.at/sites/default/files/2017-03/gvdb14.pdf)
+##### [#Nowplaying on #Spotify: Leveraging Spotify Information on Twitter for Artist Recommendations](https://link.springer.com/chapter/10.1007/978-3-319-24800-4_14)
+##### [SpotiBot: Turing Testing Spotify](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1205665&dswid=-472)
+##### [Controlling Spotify Recommendations: Effects of Personal Characteristics on Music Recommender User Interfaces](https://dl.acm.org/doi/abs/10.1145/3209219.3209223)
 
