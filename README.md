@@ -9,7 +9,7 @@ A curated contents of things related to Spotify
  - Edward Clement Lee: Data Apps and Visualization at Spotify. [Twitter](https://twitter.com/edwrdlee), [Site](http://edwardclementlee.com/)
 
     
-### :headphones: To find music 
+### :headphones: Discover new music 
 #### [Every Noise at Once](http://everynoise.com/): 
   Every Noise at Once is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 4,368 genre-shaped distinctions by Spotify as of 2020-05-22. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier. Is a project from [Glenn McDonald](https://twitter.com/glenn_mcdonald). 
 
@@ -44,12 +44,22 @@ A curated contents of things related to Spotify
 
 #### [Music Taste](https://musictaste.space/)
   Is a web app which helps users gain insights into their Spotify listening habits and compare their music taste with friends. Made by [Kalana Vithana](https://www.twitter.com/_kalpal)
-   
-### :dvd: To create playlists 
+
+#### [Dubolt](https://dubolt.com/)
+  Discover new music with the help of old favorites. Made by [Darrell Hanley](https://twitter.com/darrellhanley).
+ 
+#### [Magic Playlist](https://magicplaylist.co/)
+  The algorithm detects the main artists and creates a playlist based on their high rated tracks. You can preview each song, remove it and add security attributions such as public or private. Give it a name, save it into your Spotify's account and enjoy. Made by [Joel Lovera](https://github.com/loverajoel)
+
+
+
+
+
+### :dvd: Create playlists 
 #### [Smarter Playlists](http://playlistmachinery.com/):
   Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Paul Lamere](https://twitter.com/plamere).
 
-### :label: To organize playlists 
+### :label: Organize playlists 
 #### [Exportify](https://github.com/watsonbox/exportify): 
   Export Spotify playlists using the Web API. Made by [Howard Wilson
 ](https://github.com/watsonbox).
@@ -62,6 +72,13 @@ A curated contents of things related to Spotify
 
 #### [Spotify TUI](https://github.com/Rigellute/spotify-tui)
   A Spotify client for the terminal written in Rust. Made by [Alexander Keliris](https://github.com/Rigellute)
+  
+#### [Artist Explorer](https://artist-explorer.glitch.me/):
+  Artists Explorer is a tool that helps serious music enthusiasts explore artist relationships and discover new music. Start from any artist and quickly navigate through trees of related artists, previewing their music as you go. Made by [Faruk Emre Sahin](https://github.com/fsahin).
+  
+  
+
+
 
 
 
