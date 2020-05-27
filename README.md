@@ -11,6 +11,11 @@ A curated contents of things related to Spotify
     - [Twitter](https://twitter.com/glenn_mcdonald)
     - [Site](http://furia.com/)
     
+ - Edward Clement Lee: Data Apps and Visualization at Spotify
+    - [Twitter](https://twitter.com/edwrdlee)
+    - [Site](http://edwardclementlee.com/)
+
+    
 ### To find music
 #### [Every Noise at Once](http://everynoise.com/): 
   Every Noise at Once is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 4,368 genre-shaped distinctions by Spotify as of 2020-05-22. The calibration is fuzzy, but in general down is more organic, up is more mechanical and electric; left is denser and more atmospheric, right is spikier and bouncier. Is a project from [Glenn McDonald](https://twitter.com/glenn_mcdonald). 
@@ -39,5 +44,7 @@ A curated contents of things related to Spotify
   - Or there's a dynamically-generated daily summary of [Spotify Listening Patterns by Gender](http://everynoise.com/gender_tldr.html).
   - Or a [World Mindset](http://everynoise.com/world_playlist_mindset.html) summary based on trends in listener-created playlist titles.
  
-  - You can also scan genres and many other things with [Discover Quickly](https://discoverquickly.com/).
 
+#### [Discover Quickly](https://discoverquickly.com/):
+  Interface for finding new music, powered by Spotify's APIs. Made by [Edward Clement Lee](https://twitter.com/edwrdlee) and [Aliza Aufrichtig](https://twitter.com/alizauf). 
+   The new Discover Quickly web app brings up your Discovery Weekly playlist as a grid of album covers. When you mouse over one, the song starts playing halfway through, and you can click the album cover to zoom in on that particular song and artist. Clicking a track will also save it as a list that you can quickly export to Spotify as a new playlist[*](https://gizmodo.com/this-clever-hack-will-change-the-way-you-find-music-on-1833433404).
