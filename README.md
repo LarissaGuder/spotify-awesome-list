@@ -48,3 +48,9 @@ A curated contents of things related to Spotify
 #### [Discover Quickly](https://discoverquickly.com/):
   Interface for finding new music, powered by Spotify's APIs. Made by [Edward Clement Lee](https://twitter.com/edwrdlee) and [Aliza Aufrichtig](https://twitter.com/alizauf). 
    The new Discover Quickly web app brings up your Discovery Weekly playlist as a grid of album covers. When you mouse over one, the song starts playing halfway through, and you can click the album cover to zoom in on that particular song and artist. Clicking a track will also save it as a list that you can quickly export to Spotify as a new playlist[*](https://gizmodo.com/this-clever-hack-will-change-the-way-you-find-music-on-1833433404).
+   
+### To create playlists
+#### [Smarter Playlists](http://playlistmachinery.com/):
+  Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Twitter](https://twitter.com/plamere).
+
+
