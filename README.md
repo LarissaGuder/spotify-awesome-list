@@ -38,7 +38,7 @@ A curated contents of things related to Spotify
   - Or a [World Mindset](http://everynoise.com/world_playlist_mindset.html) summary based on trends in listener-created playlist titles.
  
 
-#### [Discover Quickly](https://discoverquickly.com/):
+#### [Discover Quickly](https://discoverquickly.com/)
   Interface for finding new music, powered by Spotify's APIs. Made by [Edward Clement Lee](https://twitter.com/edwrdlee) and [Aliza Aufrichtig](https://twitter.com/alizauf). 
    The new Discover Quickly web app brings up your Discovery Weekly playlist as a grid of album covers. When you mouse over one, the song starts playing halfway through, and you can click the album cover to zoom in on that particular song and artist. Clicking a track will also save it as a list that you can quickly export to Spotify as a new playlist[*](https://gizmodo.com/this-clever-hack-will-change-the-way-you-find-music-on-1833433404).
 
@@ -65,15 +65,15 @@ A curated contents of things related to Spotify
 
 
 ### :dvd: Create playlists 
-#### [Smarter Playlists](http://playlistmachinery.com/):
+#### [Smarter Playlists](http://playlistmachinery.com/)
   Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Paul Lamere](https://twitter.com/plamere).
 
 ### :label: Organize playlists 
-#### [Exportify](https://github.com/watsonbox/exportify): 
+#### [Exportify](https://github.com/watsonbox/exportify)
   Export Spotify playlists using the Web API. Made by [Howard Wilson
 ](https://github.com/watsonbox).
 
-#### [Sort Your Music](http://sortyourmusic.playlistmachinery.com/):
+#### [Sort Your Music](http://sortyourmusic.playlistmachinery.com/)
   Sort Your Music lets you sort your playlist based on a number of Echo Nest song attributes. Made by [Paul Lamere](http://twitter.com/plamere) and [Nick Sonneveld](https://twitter.com/sonneveld).
 
 
@@ -82,12 +82,11 @@ A curated contents of things related to Spotify
 #### [Spotify TUI](https://github.com/Rigellute/spotify-tui)
   A Spotify client for the terminal written in Rust. Made by [Alexander Keliris](https://github.com/Rigellute)
   
-#### [Artist Explorer](https://artist-explorer.glitch.me/):
+#### [Artist Explorer](https://artist-explorer.glitch.me/)
   Artists Explorer is a tool that helps serious music enthusiasts explore artist relationships and discover new music. Start from any artist and quickly navigate through trees of related artists, previewing their music as you go. Made by [Faruk Emre Sahin](https://github.com/fsahin).
-  
-  
-
-
+ 
+#### [Rotule.me](https://rotule.me/)
+  The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
 
 
