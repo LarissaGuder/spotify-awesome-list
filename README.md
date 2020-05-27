@@ -65,5 +65,10 @@ A curated contents of things related to Spotify
   Sort Your Music lets you sort your playlist based on a number of Echo Nest song attributes. Made by [Paul Lamere](http://twitter.com/plamere) and [Nick Sonneveld](https://twitter.com/sonneveld).
 
 
+### Random
+
+#### [Spotify TUI](https://github.com/Rigellute/spotify-tui)
+  A Spotify client for the terminal written in Rust. Made by [Alexander Keliris](https://github.com/Rigellute)
+
 
 
