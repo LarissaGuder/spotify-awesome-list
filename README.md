@@ -52,6 +52,15 @@ A curated contents of things related to Spotify
   The algorithm detects the main artists and creates a playlist based on their high rated tracks. You can preview each song, remove it and add security attributions such as public or private. Give it a name, save it into your Spotify's account and enjoy. Made by [Joel Lovera](https://github.com/loverajoel)
 
 
+#### [Obscurify](https://obscurifymusic.com/)
+  The goal here is to show you as many interesting things about your Spotify listening history as possible, and to quantify how unique your taste is compared to everyone else. Made by [Alex Olivero](https://github.com/alexolivero).
+
+#### [Forgotify](http://forgotify.com/)
+  That’s why we were so shocked to learn that millions of Spotify songs had been played only partially or never at all. A musical travesty, really. So we set out to give these neglected songs another way to reach your earholes, and Forgotify was born. Made by [Lane Jordan](http://lanejordan.com/), [J Hausmann](http://jgh.la/), and [Nate Gagnon](http://nategagnon.com/).
+
+
+
+
 
 
 
