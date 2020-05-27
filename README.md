@@ -56,4 +56,9 @@ A curated contents of things related to Spotify
 #### [Smarter Playlists](http://playlistmachinery.com/):
   Smarter Playlists is a web app that lets you build complex playlists by assembling simple components. Made by [Twitter](https://twitter.com/plamere).
 
+### To organize playlists
+##### [Exportify](https://github.com/watsonbox/exportify): 
+  Export Spotify playlists using the Web API. Made by [Howard Wilson
+](https://github.com/watsonbox).
+
 
