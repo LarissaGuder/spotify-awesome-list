@@ -91,6 +91,9 @@ A curated contents of things related to Spotify
 #### [Rotule.me](https://rotule.me/)
   The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
+#### [OpenPaw](https://github.com/daxaur/openpaw)
+  An open-source CLI tool that turns your terminal into a Spotify controller using natural language. Say "play lo-fi beats" or "queue up some jazz" and it handles playback, search, and queue management through the [spogo](https://github.com/steipete/spogo) CLI. Part of a larger 38-skill suite that also covers email, calendar, smart home, and more. Install with `npx pawmode`. Made by [daxaur](https://github.com/daxaur).
+
 ### Papers
 ##### [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
 ##### [Spotify Me: Facebook-assisted automatic playlist generation](https://ieeexplore.ieee.org/abstract/document/6659258)
