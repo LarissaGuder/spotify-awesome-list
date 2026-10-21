@@ -94,6 +94,9 @@ A curated contents of things related to Spotify
 #### [Rotule.me](https://rotule.me/)
   The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
+#### [Earhours](https://peakappsstudio.com/spotify-minutes-listened/)
+  Shows your Spotify minutes listened so far this year, your top artists, songs, albums and podcasts, and the hours you listen, from the data file Spotify lets every account download. It runs in the browser with no login, and the file is never uploaded. Made by [Peak Apps Studio](https://peakappsstudio.com/).
+
 ### Papers
 ##### [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
 ##### [Spotify Me: Facebook-assisted automatic playlist generation](https://ieeexplore.ieee.org/abstract/document/6659258)
