@@ -94,6 +94,9 @@ A curated contents of things related to Spotify
 #### [Rotule.me](https://rotule.me/)
   The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
+#### [nowPlayingDesktops](https://github.com/hippi345/nowPlayingDesktops)
+  A glass-style album-art tile on your desktop wallpaper for whatever is playing on Spotify. Works on Windows, macOS and Linux. Made by [Joel Shearon](https://github.com/hippi345).
+
 ### Papers
 ##### [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
 ##### [Spotify Me: Facebook-assisted automatic playlist generation](https://ieeexplore.ieee.org/abstract/document/6659258)
