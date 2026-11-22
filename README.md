@@ -87,6 +87,9 @@ A curated contents of things related to Spotify
 
 #### [Spotify TUI](https://github.com/Rigellute/spotify-tui)
   A Spotify client for the terminal written in Rust. Made by [Alexander Keliris](https://github.com/Rigellute)
+
+#### [MySpotify](https://margbug01.github.io/MySpotify/en.html)
+  A lightweight, open-source native Go desktop client for Spotify on Windows and macOS (<10 MB), featuring floating desktop lyrics, synced lyrics fallback, music videos, video podcasts, equalizer, and Spotify Connect. Made by [margbug01](https://github.com/margbug01).
   
 #### [Artist Explorer](https://artist-explorer.glitch.me/)
   Artists Explorer is a tool that helps serious music enthusiasts explore artist relationships and discover new music. Start from any artist and quickly navigate through trees of related artists, previewing their music as you go. Made by [Faruk Emre Sahin](https://github.com/fsahin).
