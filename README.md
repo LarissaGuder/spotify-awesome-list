@@ -94,6 +94,9 @@ A curated contents of things related to Spotify
 #### [Rotule.me](https://rotule.me/)
   The label and playlist are generated from the music genre you listen to the most and some additional characters, such as the percentage of songs from each decade, the favorite songs listened to, the diversity of genres and artists, the dance and the mood of the favorite songs, among other requirements. Made by [Take One Records](https://takeonerecords.com.br/).
 
+#### [PanelOS](https://emirmrkaljevic.github.io/panelos-site/)
+  A Windows tray app for small USB PC-case screens that shows the song playing in the Spotify desktop app with its album art, next to CPU/GPU temperatures and RAM/VRAM. Reads the local app, so no Spotify login or API keys. Free Lite version, Pro is a one-time purchase. Made by [Emir Mrkaljevic](https://github.com/emirmrkaljevic).
+
 ### Papers
 ##### [Music Personalization at Spotify](https://dl.acm.org/doi/abs/10.1145/2959100.2959120)
 ##### [Spotify Me: Facebook-assisted automatic playlist generation](https://ieeexplore.ieee.org/abstract/document/6659258)
