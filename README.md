@@ -102,3 +102,8 @@ A curated contents of things related to Spotify
 ##### [SpotiBot: Turing Testing Spotify](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1205665&dswid=-472)
 ##### [Controlling Spotify Recommendations: Effects of Personal Characteristics on Music Recommender User Interfaces](https://dl.acm.org/doi/abs/10.1145/3209219.3209223)
 
+
+
+## Public Data APIs (Apify)
+
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
